@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: BST
-// Author: Hilalnur Beral ID: 11549136358
-// Author: Ýrem Karpat ID: 61234117544
+// Author: Hilalnur Beral 
 // Section: 01
 // Assignment: 4
 // Description: This class defines a moviedatabase with binary search tree. 
