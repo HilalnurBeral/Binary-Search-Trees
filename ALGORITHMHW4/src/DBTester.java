@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: MovieDatabase Tester class.
-// Author: Hilalnur Beral ID: 11549136358
-// Author: Ýrem Karpat ID: 61234117544
+// Author: Hilalnur Beral 
 // Section: 01
 // Assignment: This class is created in order to test our MovieDatabase class.. 
 //-----------------------------------------------------
